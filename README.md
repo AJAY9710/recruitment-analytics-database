@@ -24,6 +24,10 @@ This project is a MySQL-based recruitment analytics database designed to track c
 2. Run SQL_Scripts/02_insert_sample_data.sql
 3. Execute queries from SQL_Scripts/03_queries.sql
 
+## Execution Environment
+SQL scripts were executed using an online MySQL compiler (OneCompiler) for demonstration and portfolio purposes.
+
+
 ## ER Diagram
 This ER diagram represents the relational design of the Recruitment Analytics Database, showing entities, primary keys, foreign keys, and relationships.
 
